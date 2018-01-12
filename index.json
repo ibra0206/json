@@ -1,0 +1,44 @@
+["nbaChamptions":
+    {
+        "id": 1,
+        "year": "2012",
+        "team": "Miami Heat",
+        "opponent:" "Oklahoma City Thunder"
+        "finalsMVP": "LeBron James",
+        "seriesLength": "5 Games",
+        
+    },
+    {
+        "id": 2,
+        "year": "2013",
+        "team": "Miami Heat",
+        "opponent": "San Antonia Spurs",
+        "finalsMVP": "LeBron James",
+        "seriesLength": "7 Games"
+    },
+    {
+        "id": 3,
+        "year": "2014",
+        "team": "San Antonio Spurs",
+        "opponent": "Miami Heat",
+        "finalsMVP": "Kawhi Leonard",
+        "seriesLength": "5 Games",
+    },
+    {
+        "id": 4,
+        "year": "2015",
+        "team": "golden state warriors",
+        "opponent": "Cleveland Cavaliers",
+        "finalsMVP": "Andre Igoudala",
+        "seriesLength": "6 Games",
+    }
+ 
+  {
+        "id": 5,
+        "year": "2016",
+        "team": "Cleveland Cavaliers",
+        "opponent": "Golden State Warriors",
+        "finalsMVP": "LeBron James",
+        "seriesLength": "7 Games",
+    }
+]
